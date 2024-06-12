@@ -4,7 +4,7 @@
 **Overview**
 ------------
 
-In this project, I created a chatbot using the popular Python libraries `requests` and `streamlit`. The chatbot is designed to [briefly describe the purpose of the chatbot].
+In this project, I created a chatbot using the popular Python libraries `requests` and `streamlit`. The chatbot is designed to chat with the user and remember the last 5 messages of the user.
 
 **Technical Details**
 --------------------
@@ -20,16 +20,16 @@ To integrate the chatbot with the Together API, I obtained an API key from Toget
 
 ### Chatbot Functionality
 
-The chatbot is capable of [list the features or functionalities of the chatbot, e.g. answering questions, providing information, etc.].
+The chatbot is capable of answering questions, providing information, and has memory (it can remember the last 5 user messages).
 
 ### Streamlit Interface
 
-The chatbot is built using Streamlit, which provides a simple and intuitive way to create a user-friendly interface for the chatbot. The interface includes [list the components of the interface, e.g. text input field, output display, etc.].
+The chatbot is built using Streamlit, which provides a simple and intuitive way to create a user-friendly interface for the chatbot. The interface includes text input field, output display, sidebar to input user API key, and a title for the chatbot.
 
 **Future Development**
 --------------------
 
-In the future, I plan to [list any planned updates or enhancements to the chatbot, e.g. adding more features, improving accuracy, etc.].
+In the future, I plan to add more features to the chatbot, eg. enhance memory capability even further. 
 
 **Conclusion**
 --------------
