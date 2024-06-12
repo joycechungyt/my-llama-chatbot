@@ -18,7 +18,7 @@ if "messages" not in st.session_state:
     st.session_state.visibility = "visible"
     st.session_state.disabled = False
     st.session_state.placeholder = "Yeehaw"
-    st.session_start.API_KEY = None
+    st.session_state.API_KEY = None
 
 with st.sidebar:
     text_input = st.text_input(
