@@ -1,4 +1,4 @@
-**Chatbot Project: [Insert Project Name]**
+**Chatbot Project: [Streamlit Llama Chatbot]**
 ================================================
 
 **Overview**
