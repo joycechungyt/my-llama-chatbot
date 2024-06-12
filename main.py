@@ -37,7 +37,7 @@ for message in st.session_state.messages:
 # React to user input
 if prompt := st.chat_input("What is up?"):
     if not st.session_state.API_KEY:
-        st.toast('Put your Key in Bitch!')
+        st.toast('Please Put your Key in!')
     else:
         # Display user message in chat message container
         st.chat_message("user").markdown(prompt)
